@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Valdecir Teixeira - Seja bem vindo(a) ao meu Github
 
 - 🔭 Buscando uma colocação como Desenvolvedor Full Stack
-- 🌱 Estudando Vue.js
+- 🌱 Estudando Java
 - 😄 Pronomes: ele/dele
 
 [![Valdecir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vardeba&show_icons=true&theme=dark)](https://github.com/vardeba/github-readme-stats)
