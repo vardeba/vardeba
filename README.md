@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Valdecir Teixeira - Seja bem vindo(a) ao meu Github
 
-- 🔭 Buscando uma colocação como Desenvolvedor Full Stack
+- 🔭 Buscando uma colocação como Desenvolvedor Full Stack Jr
 - 🌱 Estudando C#
 - 😄 Pronomes: ele/dele
 
