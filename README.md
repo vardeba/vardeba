@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Valdecir Teixeira - Seja bem vindo(a) ao meu Github
 
-Desenvolvedor Full Stack na 112h Group
+Desenvolvedor Full Stack na Olibet Technology
 - 🌱 Estudando Next
 - 😄 Pronomes: ele/dele
 
